@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/ermserdnmez" target="blank"><img src="https://img.shields.io/twitter/follow/ermserdnmez?logo=twitter&style=for-the-badge" alt="ermserdnmez" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Python**
+- 🌱 I’m currently learning **Java, Python, C++**
 
 - 📫 How to reach me **eserdnmez@gmail.com**
 
