@@ -9,6 +9,8 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/177cIE1_HmxYBw0ngoh3zgvUBMgYxKSKHPlFjiTJQh98/edit?usp=sharing](https://docs.google.com/document/d/177cIE1_HmxYBw0ngoh3zgvUBMgYxKSKHPlFjiTJQh98/edit?usp=sharing)
 
+<a href="https://app.daily.dev/SketchQ"><img src="https://api.daily.dev/devcards/a580156d45f043968e04ec77d283215e.png?r=3kz" width="400" alt="Erim Serdönmez's Dev Card" class="center"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ermserdnmez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ermserdnmez" height="30" width="40" /></a>
