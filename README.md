@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **eserdnmez@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/177cIE1_HmxYBw0ngoh3zgvUBMgYxKSKHPlFjiTJQh98/edit?usp=sharing](https://docs.google.com/document/d/177cIE1_HmxYBw0ngoh3zgvUBMgYxKSKHPlFjiTJQh98/edit?usp=sharing)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
